@@ -1,3 +1,3 @@
-# rails-tutoria-toy-app
+# rails-tutorial-toy-app
 
 railsチュートリアルのtoy appやる
